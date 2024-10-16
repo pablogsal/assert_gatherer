@@ -1,0 +1,7 @@
+[project]
+name = "assert-gatherer"
+version = "0.1.0"
+description = "A utility to gather assert statements in the top pypi packages"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ['aiohttp', 'rich']

@@ -1,0 +1,3 @@
+[submodule "top-pypi-packages"]
+	path = top-pypi-packages
+	url = git@github.com:hugovk/top-pypi-packages.git
